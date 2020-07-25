@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.card-text {
+    cursor: pointer;
+    padding: 5px 10px;
+}
+
+.card-text:hover,
+.active {
+    background-color: #0069d9;
+    color: #fff;
+}
